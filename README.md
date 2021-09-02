@@ -1,2 +1,2 @@
-# gallery
+# Gallery
 Personal picture library.
